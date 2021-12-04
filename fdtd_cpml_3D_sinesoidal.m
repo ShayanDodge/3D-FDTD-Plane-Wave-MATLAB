@@ -1,6 +1,13 @@
-% FDTD 3D in 3 layer dielectric with CPML
-% Author:shayan dodge
-% Email address:dodgeshayan@gmail.com
+%===================================
+%    Shayan Dodge
+%    MSc in Physics
+% M: +98 935 741 67 63 
+% E: dodgeshayan@gmail.com 
+% A: Tehran, Iran 
+%===================================
+% FDTD 3D in free space with CPML 
+% Sinusoidal
+%===================================
 %% initialize the matlab workspace
 close all;
 clear all;
